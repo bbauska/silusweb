@@ -1,0 +1,82 @@
+body{
+  overflow: hidden;
+  background-image: url("https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777499/op-Ten-Front-End-Design-Rules-For-Developers_Luke-Social-33a3a7c9b759fdaa22973906070f8065.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  animation: change 99s infinite linear;
+}
+@keyframes change{
+  0%{
+    background-image: url(https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777499/op-Ten-Front-End-Design-Rules-For-Developers_Luke-Social-33a3a7c9b759fdaa22973906070f8065.png);
+  }
+   10%{
+    background-image: url(https://media.istockphoto.com/photos/sea-wave-abstract-navy-blue-black-neon-pattern-moon-light-silk-wavy-picture-id1168773148?k=20&m=1168773148&s=612x612&w=0&h=8tzbYpZyFDoU9nKCQ_2z4PJy5he-sxnQyy0I-MywlGk=);
+  }
+   20%{
+    background-image: url(https://media.istockphoto.com/photos/light-bokeh-on-blue-background-picture-id1353039395?k=20&m=1353039395&s=612x612&w=0&h=m8DVgRIn-8NQqB_9671zCHjx_m7U05Cbo1dprO8TBJc=);
+  }
+   30%{
+    background-image: url(https://media.istockphoto.com/photos/3d-illustration-of-abstract-blue-circle-with-light-effect-picture-id1366752286?k=20&m=1366752286&s=612x612&w=0&h=iw4-jDNWUOmbvnyG_6c3tVU1Qw6uyyCghS2JY9MeYsk=);
+  }
+   40%{
+    background-image: url(https://media.istockphoto.com/photos/abstract-blue-shade-wavy-background-with-transparent-gentle-circles-picture-id1403196926?k=20&m=1403196926&s=612x612&w=0&h=QLonQru2vdyMNcMQG-kNBUCbz7FsePGYyRLzbjANfZk=);
+  }
+   50%{
+    background-image: url(https://media.istockphoto.com/photos/soft-blue-shade-background-with-gentle-diagonal-lines-picture-id1401295437?k=20&m=1401295437&s=612x612&w=0&h=N-A2YQ17WA7njY6XwQN3gxxZekIQlZRBNz22pj8EiWg=);
+  }
+   60%{
+    background-image: url(https://media.istockphoto.com/photos/decorative-abstract-light-gradient-wavy-background-picture-id1415555385?k=20&m=1415555385&s=612x612&w=0&h=ttpY_uW-mhnNplIBi5dJrZcHxpJ4nnM21k0HhQugXQs=);
+  }
+   70%{
+    background-image: url(https://media.istockphoto.com/photos/lens-flare-cinematic-background-with-digital-flashes-of-light-on-the-picture-id1211623391?k=20&m=1211623391&s=612x612&w=0&h=4wBtmLZ_h0wT8WzIm8mqtpXtvFeTQv1RvEh5fFtbSuU=);
+  }
+   80%{
+    background-image: url(https://media.istockphoto.com/photos/abstract-art-backgrounds-picture-id1225553594?k=20&m=1225553594&s=612x612&w=0&h=c-WDODUw_q41uaHJfPrTy6ww6VGaqXbqaRWKseYf1ow=);
+  }
+   90%{
+    background-image: url(https://media.istockphoto.com/photos/dark-blue-defocused-blurred-motion-abstract-background-picture-id1138740533?b=1&k=20&m=1138740533&s=170667a&w=0&h=6lC-tk4xLy4j0P47D_TflXhoQ1UkxG7Au69UjSXmqZk=);
+  }
+}
+.head{
+  margin: 20px;
+  padding: 100px;
+}
+.org{
+  color: orange;
+  font-family: PT Sans;
+  font-size: 50px;
+  margin: 40px;
+  padding: 0px;
+}
+div h1{
+  color: white;
+  font-family: PT Sans;
+  font-size: 40px;
+  margin: -40px 40px;
+  padding: 0px;
+}
+.btn{
+ margin: 90px 40px;
+ padding: 0px;
+ border-radius: 5px;
+
+}
+.btn a{
+  font-size: 25px;
+  margin: 5px;
+  padding: 0px;
+  text-decoration: none;
+  transition: .1 ease-in-out;
+}
+.btn:hover{
+  transform: scale(1.3);
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+}
+/* .name{
+  color: white;
+  font-family: Tahoma;
+  text-align: right;
+} */
